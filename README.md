@@ -1,6 +1,3 @@
-
-<img src="assets/example.png" alt="Portfolio Banner" width="100%" style="border-radius: 10px;" />
-
 <div style="
   background-color:#FBFBFB; 
   padding:20px; 
@@ -41,9 +38,7 @@
     </a>
     </div>
       <!-- Background image bên phải -->
-  <img src="/assets/TechStack.png" 
-       alt="background"
-       style="
+      <div style="
          position:absolute; 
          bottom:0; 
          right:-20px; 
@@ -52,7 +47,12 @@
          max-width:300px; 
          opacity:0.9; 
          z-index:0;
-       " />
+       ">
+  <img src="/assets/TechStack.png" 
+       alt="background"
+       style="max-width:100%; height:auto;"
+        />
+        </div>
   </div>
 </div>
 
