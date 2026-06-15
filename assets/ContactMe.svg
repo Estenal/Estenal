@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="300" viewBox="0 0 800 100">
+  <!-- Icon -->
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMzIgMzIiPgoJPHBhdGggZD0iTTAgMGgzMnYzMkgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZD0iTTIyIDEyYTMuOTggMy45OCAwIDAgMC0yLjg5MSAxLjI1bC0zLjE2LTEuNzU1Yy4wMjgtLjE2Mi4wNS0uMzI1LjA1LS40OTVjMC0xLjY1NC0xLjM0NS0zLTMtM3MtMyAxLjM0Ni0zIDNhMi45OSAyLjk5IDAgMCAwIDEuNDY4IDIuNTY1bC0uODk2IDQuNDc4QTIuOTk1IDIuOTk1IDAgMCAwIDggMjFjMCAxLjY1NCAxLjM0NiAzIDMgM3MzLTEuMzQ2IDMtM2MwLS4wODctLjAxOC0uMTY4LS4wMjYtLjI1M2w0LjkzMi0yLjI0M0MxOS42NCAxOS40MSAyMC43NDYgMjAgMjIgMjBjMi4yMDYgMCA0LTEuNzk0IDQtNHMtMS43OTQtNC00LTRtLTkuMDAxLTJhMSAxIDAgMSAxLS4wMDEgMi4wMDJhMSAxIDAgMCAxIDAtMi4wMDJtLTIgMTJhMSAxIDAgMSAxIC45Mi0xLjM5bC4wMDEuMDAycS4wNzcuMTguMDc5LjM4OGExIDEgMCAwIDEtMSAxbTIuMTU2LTMuMDc4YTMgMyAwIDAgMC0uNjI0LS40ODdsLjg5Ny00LjQ3OGMuNTktLjA4NiAxLjEyLS4zNCAxLjU0Ni0uNzE2TDE4LjE0MyAxNUE0IDQgMCAwIDAgMTggMTZjMCAuMjM1LjAzLjQ2Mi4wNy42ODd6TTIyLjAwMiAxOGMtMS4xMDMgMC0yLS44OTctMi0ycy44OTctMiAyLTJzMiAuODk4IDIgMnMtLjg5NyAyLTIgMm01LjA4OS02LjU5MmMuNjE3IDEuNDkuOTEyIDMuMDUuOTA5IDQuNTkyYTEyLjEgMTIuMSAwIDAgMS0uOSA0LjU0OGwxLjc5Mi44OTZBMTQuMSAxNC4xIDAgMCAwIDMwIDE2YTEzLjkgMTMuOSAwIDAgMC0xLjA2MS01LjM1N0MyNi43MSA1LjI2MyAyMS40OTIgMi4wMDcgMTYgMmExMy45IDEzLjkgMCAwIDAtNS4zNiAxLjA2NmwuNzY2IDEuODQ4QTExLjkgMTEuOSAwIDAgMSAxNiA0YzQuNzA3LjAwNiA5LjE4IDIuNzk3IDExLjA5IDcuNDA4bS02LjQ5NyAxNS42NzljLTEuNTAzLjYyMi0zLjA2LjkxNS00LjU5NC45MTNjLTQuNzA3LS4wMDYtOS4xOC0yLjc5Ny0xMS4wOS03LjQwOEExMS45IDExLjkgMCAwIDEgNCAxNmMuMDAzLTEuNTYzLjMxMy0zLjEwOC45LTQuNTQ3bC0xLjc5My0uODk3QTE0LjEgMTQuMSAwIDAgMCAyIDE2YTEzLjk2IDEzLjk2IDAgMCAwIDguNjQzIDEyLjkyOEExNC4xIDE0LjEgMCAwIDAgMTYgMzBjMS43ODkuMDAyIDMuNjA2LS4zNCA1LjM2LTEuMDY2ek0yNSAyM2MtMS4xMiAwLTIgLjg4LTIgMnMuODggMiAyIDJzMi0uODggMi0ycy0uODgtMi0yLTJNNyA1Yy0xLjEyIDAtMiAuODgtMiAycy44OCAyIDIgMnMyLS44OCAyLTJzLS44OC0yLTItMiIgLz4KPC9zdmc+Cg=="
+  x="10" y="10" width="80" height="80">
+  <animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 50 50"
+                    to="360 50 50"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+  </image>
+
+  <!-- Title -->
+  <text x="110" y="50" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#0f172a">CONNECT WITH ME</text>
+
+  <!-- Subtitle với thanh ngang -->
+  <rect x="110" y="70" width="30" height="4" rx="2" fill="#0f172a"/>
+  <text x="150" y="75" font-size="12" font-style="italic" font-family="Roboto, sans-serif" fill="#475569">KẾT NỐI VỚI TÔI</text>
+</svg>

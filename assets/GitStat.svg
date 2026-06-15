@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 800 90">
+  <!-- Icon -->
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTguOTggOS4yNTNhNy41MiA3LjUyIDAgMCAwLTQuMjMzLTQuMjM0YTMgMyAwIDAgMC0uNTM0Ljg2OGE2LjUyIDYuNTIgMCAwIDEgMy45IDMuOWEzIDMgMCAwIDAgLjg2OC0uNTM0bS02Ljc1Mi0zLjc1TDEyIDUuNWE2LjUgNi41IDAgMSAwIDYuNDk2IDYuMjcycS41MTYtLjE2Mi45NzYtLjQyNXEuMDI3LjMyMy4wMjguNjUzYTcuNSA3LjUgMCAxIDEtNi44NDctNy40NzJhNSA1IDAgMCAwLS40MjUuOTc2IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIC8+Cgk8Y2lyY2xlIGN4PSIxNyIgY3k9IjciIHI9IjMiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KPC9zdmc+Cg=="
+  x="10" y="10" width="80" height="80">
+  <animateTransform attributeName="transform"
+                    attributeType="XML"
+                    type="rotate"
+                    from="0 50 50"
+                    to="360 50 50"
+                    dur="10s"
+                    repeatCount="indefinite"/>
+  </image>
+
+  <!-- Title -->
+  <text x="110" y="50" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#0f172a">GITHUB STATS</text>
+
+  <!-- Subtitle với thanh ngang -->
+  <rect x="110" y="70" width="30" height="4" rx="2" fill="#0f172a"/>
+  <text x="150" y="75" font-size="12" font-style="italic" font-family="Roboto, sans-serif" fill="#475569">THỐNG KÊ VÀ HOẠT ĐỘNG</text>
+</svg>
