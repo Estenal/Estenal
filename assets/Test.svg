@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+
+  <!-- Khung chính -->
+  <rect x="0" y="0" width="800" height="300" rx="20" ry="20" fill="#fff" stroke="#ccc"/>
+
+  <!-- Icon -->
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMS41Ij4KCQk8cGF0aCBkPSJNMTUuNSAxMC41YTMuNSAzLjUgMCAxIDAtNyAwYTMuNSAzLjUgMCAwIDAgNyAwbTYuNS02YTIuNSAyLjUgMCAxIDAtNSAwYTIuNSAyLjUgMCAwIDAgNSAwIiAvPgoJCTxwYXRoIGQ9Ik0xNCAyLjJxLS45Ny0uMTk4LTItLjJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTBzMTAtNC40NzcgMTAtMTBxLS4wMDItMS4wMy0uMi0yIiAvPgoJCTxwYXRoIGQ9Ik0xOCAyMGE2IDYgMCAwIDAtMTIgMCIgLz4KCTwvZz4KPC9zdmc+Cg==" x="30" y="40" width="80" height="80"/>
+
+  <!-- Title -->
+  <text x="130" y="70" font-size="32" font-weight="bold" fill="#0f172a">ABOUT ME</text>
+
+  <!-- Subtitle với thanh ngang -->
+  <rect x="130" y="90" width="30" height="4" rx="2" fill="#0f172a"/>
+  <text x="170" y="95" font-size="14" font-style="italic" fill="#475569">BẢN THÂN TÔI VÀ ĐỊNH HƯỚNG</text>
+
+  <!-- Nội dung chính (cột trái) -->
+  <g transform="translate(130,130)">
+    <text y="0" font-size="16" font-weight="bold">Full-Stack Developer &amp; UI/UX Enthusiast</text>
+    <text y="30" font-size="14" font-style="italic">
+      Updating...
+    </text>
+  </g>
+
+  <!-- Nút Portfolio -->
+<image
+    href="https://img.shields.io/badge/✨_Khám_Phá_Portfolio_Của_Tôi-0A66C2?style=for-the-badge&amp;logo=Web&amp;logoColor=white"
+    x="130"
+    y="220"
+    width="300"
+    height="35"/>
+  <!-- Background image bên phải -->
+  <image href="https://github.com/Estenal/Estenal/blob/main/assets/TechStack.svg" x="500" y="50" width="250" height="250" opacity="0.9"/>
+</svg>
