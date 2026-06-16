@@ -1,6 +1,6 @@
 <!-- AboutMe Section-->
-<a href="javascript:void(0)">
-  <img src="assets/AboutMe.svg" width="100%" alt="About Me Section"/>
+<a href="#aboutme">
+  <img src="assets/AboutMe.svg" width="100%" alt="About Me Section" id="aboutme">
 </a>
 <!-- Portfolio Badge -->
 <a href="https://your-portfolio-url.com" target="_blank">
@@ -19,9 +19,12 @@
     />
 </a>
 <!-- Zalo Contact Banner -->
-<img src="assets/ContactBanner.png" width="100%" alt="Zalo Contact Banner"/>
+<a href="https://zalo.me/0344003196" target="_blank">
+  <img src="assets/ContactBanner.png" width="100%" alt="Zalo Contact Banner"/>
+<a>
 <!-- Contact Section -->
-<img src="assets/ContactMe.svg" width="100%" alt="Contact Me Section"/>
+<a href="#contactme">
+  <img src="assets/ContactMe.svg" width="100%" alt="Contact Me Section" id="contactme"/>
         <p>
           <a href="mailto:trido285@gmail.com">
             <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -36,11 +39,13 @@
             <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
           </a>
         </p>
-
+</a>
 
 <!-- TechStack Section -->
 <br><br>
-<img src="assets/TechStack.svg" width="100%" alt="TechStack Section"/>
+<a href="#techstack" >
+  <img src="assets/TechStack.svg" width="100%" alt="TechStack Section" id="techstack"/>
+</a>
 <div class="skills">
 
   <!-- Languages -->
@@ -125,7 +130,9 @@
 
 <!-- GitStat Section-->
 <br><br>
-<img src="assets/GitStat.svg" width="100%" alt="GitStat Section"/>
+<a href="#gitstat">
+  <img src="assets/GitStat.svg" width="100%" alt="GitStat Section" id="gitstat"/>
+</a>
 <div>
         <table width="100%">
         <tr>
