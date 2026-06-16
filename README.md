@@ -3,7 +3,7 @@
   <img src="assets/AboutMe.svg" width="100%" alt="About Me Section" id="aboutme">
 </a>
 <!-- Portfolio Badge -->
-<a href="https://your-portfolio-url.com" target="_blank">
+<a href="#" target="_blank">
     <img
         src="https://img.shields.io/badge/%E2%9C%A8_Kh%C3%A1m_Ph%C3%A1_Portfolio_C%E1%BB%A7a_T%C3%B4i-8B5CF6?style=for-the-badge"
         alt="Khám Phá Portfolio Của Tôi"
@@ -11,7 +11,7 @@
     />
 </a>
 <!-- Personal Forum Badge -->
-<a href="https://your-forum-url.com" target="_blank">
+<a href="#" target="_blank">
     <img
         src="https://img.shields.io/badge/%F0%9F%92%AC_Gh%C3%A9_Th%C4%83m_Di%E1%BB%85n_%C4%90%C3%A0n_C%C3%A1_Nh%C3%A2n-FFAA5A?style=for-the-badge"
         alt="Ghé Thăm Diễn Đàn Cá Nhân"
@@ -153,9 +153,13 @@
 
 <!-- Footer Section -->
    <div>
-	   <br>
-    <h4>🔝 TOP CONTRIBUTED REPOSITORIES</h4>
+	  <br>
+    <a href="#-top-contributed-repositories">
+      <h4>🔝 TOP CONTRIBUTED REPOSITORIES</h4>
+    </a>
       <a href="https://visitcount.itsvg.in">
         <img src="https://komarev.com/ghpvc/?username=Estenal&icon=2&color=1" alt="Visitor Count" />
       </a>
 </div>
+
+<block>
