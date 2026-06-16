@@ -3,37 +3,38 @@
   <!-- <rect x="0" y="0" width="800" height="300" rx="20" ry="20" fill="#fff" stroke="#ccc"/> -->
 
   <!-- Icon -->
-  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMS41Ij4KCQk8cGF0aCBkPSJNMTUgMi40NThBMTAgMTAgMCAwIDAgMTIgMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMHMxMC00LjQ3NyAxMC0xMGExMCAxMCAwIDAgMC0uNDU4LTMiIC8+CgkJPHBhdGggZD0iTTE1IDEwYTMgMyAwIDEgMS02IDBhMyAzIDAgMCAxIDYgMG0tOS41IDkuNWwuNTYtLjk4QTUgNSAwIDAgMSAxMC40MDIgMTZoMy4xOTZhNSA1IDAgMCAxIDQuMzQxIDIuNTJsLjU2Ljk4bS40NzUtMTcuNDc5Yy4wMDYtLjAyOC4wNDYtLjAyOC4wNTIgMGEzLjc5IDMuNzkgMCAwIDAgMi45NTMgMi45NTNjLjAyOC4wMDYuMDI4LjA0NiAwIC4wNTJhMy43OSAzLjc5IDAgMCAwLTIuOTUzIDIuOTUzYy0uMDA2LjAyOC0uMDQ2LjAyOC0uMDUyIDBhMy43OSAzLjc5IDAgMCAwLTIuOTUzLTIuOTUzYy0uMDI4LS4wMDYtLjAyOC0uMDQ2IDAtLjA1MmEzLjc5IDMuNzkgMCAwIDAgMi45NTMtMi45NTMiIC8+Cgk8L2c+Cjwvc3ZnPgo="
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmYWE1YSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSI+CgkJPHBhdGggZD0iTTE1IDIuNDU4QTEwIDEwIDAgMCAwIDEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTBzMTAtNC40NzcgMTAtMTBhMTAgMTAgMCAwIDAtLjQ1OC0zIiAvPgoJCTxwYXRoIGQ9Ik0xNSAxMGEzIDMgMCAxIDEtNiAwYTMgMyAwIDAgMSA2IDBtLTkuNSA5LjVsLjU2LS45OEE1IDUgMCAwIDEgMTAuNDAyIDE2aDMuMTk2YTUgNSAwIDAgMSA0LjM0MSAyLjUybC41Ni45OG0uNDc1LTE3LjQ3OWMuMDA2LS4wMjguMDQ2LS4wMjguMDUyIDBhMy43OSAzLjc5IDAgMCAwIDIuOTUzIDIuOTUzYy4wMjguMDA2LjAyOC4wNDYgMCAuMDUyYTMuNzkgMy43OSAwIDAgMC0yLjk1MyAyLjk1M2MtLjAwNi4wMjgtLjA0Ni4wMjgtLjA1MiAwYTMuNzkgMy43OSAwIDAgMC0yLjk1My0yLjk1M2MtLjAyOC0uMDA2LS4wMjgtLjA0NiAwLS4wNTJhMy43OSAzLjc5IDAgMCAwIDIuOTUzLTIuOTUzIiAvPgoJPC9nPgo8L3N2Zz4K"
   x="10" y="30" width="80" height="80">
   <animateTransform attributeName="transform"
                     attributeType="XML"
                     type="rotate"
                     from="0 50 70"
                     to="360 50 70"
-                    dur="10s"
+                    dur="20s"
                     repeatCount="indefinite"/>
   </image>
 
   <!-- Title -->
-  <text x="110" y="70" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#0f172a">ABOUT ME</text>
+  <text x="112" y="72" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#ffffff">ABOUT ME</text>
+  <text x="110" y="70" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#744827">ABOUT ME</text>
 
   <!-- Subtitle với thanh ngang -->
-  <rect x="110" y="90" width="30" height="4" rx="2" fill="#0f172a"/>
-  <text x="150" y="95" font-size="12" font-style="italic" font-family="Roboto, sans-serif" fill="#475569">BẢN THÂN TÔI VÀ ĐỊNH HƯỚNG</text>
+  <rect x="110" y="90" width="30" height="4" rx="2" fill="#ffaa5a"/>
+  <text x="150" y="95" font-size="12" font-style="italic" font-family="Roboto, sans-serif" fill="#ffaa5a">BẢN THÂN TÔI VÀ ĐỊNH HƯỚNG</text>
 
   <!-- Nội dung chính (cột trái) -->
   <g transform="translate(15,130)" font-family="Roboto, sans-serif">
-    <text y="5" font-size="16" font-weight="bold">FULL-STACK DEVELOPER &amp; DESIGNER</text>
-    <text y="30" x="10" font-size="12">
+    <text y="5" font-size="16" font-weight="bold" fill="#7F5E47">FULL-STACK DEVELOPER &amp; DESIGNER</text>
+    <text y="30" x="10" font-size="12" fill="#7F5E47">
       Xin Chào! Tôi Là Trí Đỗ (Là Estenal khi Freelancer).
     </text>
-    <text y="45" x="15" font-size="10" font-style="italic">
+    <text y="45" x="15" font-size="10" font-style="italic" fill="#7F5E47">
       | Hello! I'm Tri Do (Estenal as a Freelancer).
     </text>
-    <text y="65" x="10" font-size="12">
+    <text y="65" x="10" font-size="12" fill="#7F5E47">
       Yêu thích sự sáng tạo và đam mê phát triển phần mềm, ứng dụng không có tính ứng dụng :3
     </text>
-    <text y="80" x="15" font-size="10" font-style="italic">
+    <text y="80" x="15" font-size="10" font-style="italic" fill="#7F5E47">
       | I love creativity and have a strong passion for software development...
     </text>
   </g>

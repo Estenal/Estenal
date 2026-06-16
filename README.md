@@ -145,7 +145,7 @@
 <!-- Footer Section -->
    <div>
 	   <br>
-<h4>🔝 TOP CONTRIBUTED REPOSITORIES</h4>
+    <h4>🔝 TOP CONTRIBUTED REPOSITORIES</h4>
       <a href="https://visitcount.itsvg.in">
         <img src="https://komarev.com/ghpvc/?username=Estenal&icon=2&color=1" alt="Visitor Count" />
       </a>

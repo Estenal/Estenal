@@ -1,20 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 800 90">
   <!-- Icon -->
-  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSI+CgkJPHBhdGggZD0ibTUgMTZsNS0zbTQtMmw1LTNtLTctM3Y1bTAgNHY1TTUgOGw1IDNtNCAybDUgM20xLjUtN3Y1LjVtLTcgNmw1LjUtM20tMTQuNSAwbDYgM20tNy01LjVWOW0xLTIuNWw2LTNtOSAzbC02LTMiIC8+CgkJPGNpcmNsZSBjeD0iMTIiIGN5PSIzLjUiIHI9IjEuNSIgLz4KCQk8Y2lyY2xlIGN4PSIxMiIgY3k9IjIwLjUiIHI9IjEuNSIgLz4KCQk8Y2lyY2xlIGN4PSIzLjUiIGN5PSI3LjUiIHI9IjEuNSIgLz4KCQk8Y2lyY2xlIGN4PSIyMC41IiBjeT0iNy41IiByPSIxLjUiIC8+CgkJPGNpcmNsZSBjeD0iMjAuNSIgY3k9IjE2LjUiIHI9IjEuNSIgLz4KCQk8Y2lyY2xlIGN4PSIzLjUiIGN5PSIxNi41IiByPSIxLjUiIC8+CgkJPHBhdGggZD0ibTEyIDkuNzVsMiAxLjEyNXYyLjI1bC0yIDEuMTI1bC0yLTEuMTI1di0yLjI1eiIgLz4KCTwvZz4KPC9zdmc+Cg=="
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmYWE1YSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxLjUiPgoJCTxwYXRoIGQ9Im01IDE2bDUtM200LTJsNS0zbS03LTN2NW0wIDR2NU01IDhsNSAzbTQgMmw1IDNtMS41LTd2NS41bS03IDZsNS41LTNtLTE0LjUgMGw2IDNtLTctNS41VjltMS0yLjVsNi0zbTkgM2wtNi0zIiAvPgoJCTxjaXJjbGUgY3g9IjEyIiBjeT0iMy41IiByPSIxLjUiIC8+CgkJPGNpcmNsZSBjeD0iMTIiIGN5PSIyMC41IiByPSIxLjUiIC8+CgkJPGNpcmNsZSBjeD0iMy41IiBjeT0iNy41IiByPSIxLjUiIC8+CgkJPGNpcmNsZSBjeD0iMjAuNSIgY3k9IjcuNSIgcj0iMS41IiAvPgoJCTxjaXJjbGUgY3g9IjIwLjUiIGN5PSIxNi41IiByPSIxLjUiIC8+CgkJPGNpcmNsZSBjeD0iMy41IiBjeT0iMTYuNSIgcj0iMS41IiAvPgoJCTxwYXRoIGQ9Im0xMiA5Ljc1bDIgMS4xMjV2Mi4yNWwtMiAxLjEyNWwtMi0xLjEyNXYtMi4yNXoiIC8+Cgk8L2c+Cjwvc3ZnPgo="
   x="10" y="10" width="80" height="80">
   <animateTransform attributeName="transform"
                     attributeType="XML"
                     type="rotate"
                     from="0 50 50"
                     to="360 50 50"
-                    dur="10s"
+                    dur="20s"
                     repeatCount="indefinite"/>
   </image>
 
   <!-- Title -->
-  <text x="110" y="50" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#0f172a">TECH STACKS &amp; SKILLS</text>
+  <text x="112" y="52" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#ffffff">TECH STACKS &amp; SKILLS</text>
+  <text x="110" y="50" font-size="32" font-weight="bold" font-family="Roboto, sans-serif" fill="#744827">TECH STACKS &amp; SKILLS</text>
 
   <!-- Subtitle với thanh ngang -->
-  <rect x="110" y="70" width="30" height="4" rx="2" fill="#0f172a"/>
-  <text x="150" y="75" font-size="12" font-style="italic" font-family="Roboto, sans-serif" fill="#475569">NỀN TẢNG CÔNG NGHỆ VÀ KỸ NĂNG</text>
+  <rect x="110" y="70" width="30" height="4" rx="2" fill="#ffaa5a"/>
+  <text x="150" y="75" font-size="12" font-style="italic" font-family="Roboto, sans-serif" fill="#ffaa5a">NỀN TẢNG CÔNG NGHỆ VÀ KỸ NĂNG</text>
 </svg>
