@@ -1,5 +1,5 @@
 <!-- AboutMe Section-->
-<a href="">
+<a href="javascript:void(0)">
   <img src="assets/AboutMe.svg" width="100%" alt="About Me Section"/>
 </a>
 <!-- Portfolio Badge -->
