@@ -1,11 +1,19 @@
 <!-- AboutMe Section-->
 <img src="assets/AboutMe.svg" width="100%" alt="About Me Section"/>
-<!-- Portfolio Badge-->
+<!-- Portfolio Badge -->
 <a href="https://your-portfolio-url.com" target="_blank">
     <img
-        src="https://img.shields.io/badge/%E2%9C%A8_Kh%C3%A1m_Ph%C3%A1_Portfolio_C%E1%BB%A7a_T%C3%B4i-0A66C2?style=for-the-badge"
+        src="https://img.shields.io/badge/%E2%9C%A8_Kh%C3%A1m_Ph%C3%A1_Portfolio_C%E1%BB%A7a_T%C3%B4i-8B5CF6?style=for-the-badge"
         alt="Khám Phá Portfolio Của Tôi"
-        width="500" height="50"
+        width="300" height="40"
+    />
+</a>
+<!-- Personal Forum Badge -->
+<a href="https://your-forum-url.com" target="_blank">
+    <img
+        src="https://img.shields.io/badge/%F0%9F%92%AC_Gh%C3%A9_Th%C4%83m_Di%E1%BB%85n_%C4%90%C3%A0n_C%C3%A1_Nh%C3%A2n-FFAA5A?style=for-the-badge"
+        alt="Ghé Thăm Diễn Đàn Cá Nhân"
+        width="300" height="40"
     />
 </a>
 <!-- Zalo Contact Banner -->
@@ -105,7 +113,9 @@
     <div class="badges">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white" alt="Jasmine" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+      <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     </div>
   </section>
 </div>
